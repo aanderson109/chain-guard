@@ -1,5 +1,5 @@
 # chain guard
-`chain-guard` is intended to be a easy-to-use assembly of other security tools to enhance the visibility product and application security engineers have into their software.
+`chain-guard` is intended to be an easy-to-use assembly of other security tools to enhance the visibility product and application security engineers have into their software.
 
 ## Core Features
 - **Vulnerability Scanning:** Implements tools like `pip-audit`, `Grype`, `Trivy` to scan dependencies or libraries for known vulnerabilities.
